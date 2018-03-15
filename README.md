@@ -5,5 +5,5 @@ Download .pbix files. Documentation is included in the reports.
 ####### IMPORTANT : in Power Query, type your Windows user name in the parameter 'WindowsUserName'
 
 LinkedIn :  https://www.linkedin.com/in/didier-terrien-657535b7/
-
+  
 Very good tutorial by Ruth Pozuelo (Curbal) :  https://www.youtube.com/watch?v=Jg7n_cLjtTw
