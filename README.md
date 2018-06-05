@@ -6,4 +6,4 @@ Download .pbix files. Documentation is included in the reports.
 
 LinkedIn :  https://www.linkedin.com/in/didier-terrien-657535b7/
   
-Very good tutorial by Ruth Pozuelo (Curbal) :  https://www.youtube.com/watch?v=Jg7n_cLjtTw
+Very good tutorial of some functions by Ruth Pozuelo (Curbal) :  https://www.youtube.com/watch?v=Jg7n_cLjtTw
