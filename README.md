@@ -10,7 +10,7 @@ Some features :
 - Get source files names and folder
 - Pass parameters to R script
 
-Download .pbix files. Documentation is included in the reports.
+Please download .pbix files. Documentation is included in the reports.
 
 ####### IMPORTANT : in Power Query, type your Windows user name in the parameter 'WindowsUserName'
 
