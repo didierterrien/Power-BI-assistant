@@ -14,6 +14,8 @@ Please download .pbix files. Documentation is included in the reports.
 
 ####### IMPORTANT : in Power Query, type your Windows user name in the parameter 'WindowsUserName'
 
-LinkedIn :  https://www.linkedin.com/in/didier-terrien-657535b7/
-  
-Very good tutorial of some functions by Ruth Pozuelo (Curbal) :  https://www.youtube.com/watch?v=Jg7n_cLjtTw
+Blog : https://thebipower.fr/index.php/power-bi-assistant/
+
+Troubleshouting : https://thebipower.fr/index.php/2019/02/18/power-bi-assistant-troubleshouting/
+
+Very good tutorial of some features by Ruth Pozuelo (Curbal) :  https://www.youtube.com/watch?v=Jg7n_cLjtTw
