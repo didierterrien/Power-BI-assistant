@@ -1,6 +1,8 @@
 # Power-BI-assistant
 This project is meant to help Power BI desktop developpers providing functions which are not included natively or giving useful information and links.
 
+Development of Power BI assistant is stopped as most of it's features are included in Power BI Sidetools
+
 Some features :
 - List all DAX formulas and allow to search text within or export to Excel
 - List links between measures/columns (ie measures used by other measures)
