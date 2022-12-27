@@ -1,6 +1,8 @@
 # Power-BI-assistant
 
-***************** Development of Power BI assistant is stopped as most of it's features are included in Power BI Sidetools *****************
+******************************************************************************************************** 
+Development of Power BI assistant is stopped as most of it's features are included in Power BI Sidetools 
+********************************************************************************************************
 
 This project is meant to help Power BI desktop developpers providing functions which are not included natively or giving useful information and links.
 
