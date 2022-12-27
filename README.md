@@ -17,7 +17,9 @@ Some features :
 
 Please download .pbix files. Documentation is included in the reports.
 
-####### IMPORTANT : in Power Query, type your Windows user name in the parameter 'WindowsUserName'
+IMPORTANT : in 'Home' ribbon, select 'Transform data/Edit parameters' and type your Windows user name in the parameter 'WindowsUserName'
+
+![image](https://user-images.githubusercontent.com/37301981/209677743-e578d16e-1fce-481c-9bab-5876d0347049.png)
 
 Blog : https://thebipower.fr/index.php/power-bi-assistant/
 
