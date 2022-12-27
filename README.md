@@ -13,6 +13,8 @@ Some features :
 Please download .pbix files. Documentation is included in the reports.
 
 ####### IMPORTANT : in Power Query, type your Windows user name in the parameter 'WindowsUserName'
+![image](https://user-images.githubusercontent.com/4487041/209641186-f6c74459-a8e2-4bf5-a7be-cad0e934c978.png)
+
 
 Blog : https://thebipower.fr/index.php/power-bi-assistant/
 
